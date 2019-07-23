@@ -1,0 +1,17 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: orange;
+}
+
+.container {
+    width: 1160px;
+    background: aquamarine;
+}
+
+.footer {
+    height: 275px;
+    background: #444240;
+}
